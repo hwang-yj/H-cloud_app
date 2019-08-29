@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTensorFlowMachineLearningExample</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+
+    <string name="layout_camera_lbl_object_name">사물명</string>
+</resources>
